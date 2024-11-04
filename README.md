@@ -55,8 +55,11 @@ Each length of the contig can be found in the contigs.fa file.
 Number of Contigs and Length of Contigs for each kmer: 
 
 Kmer 19 : Contigs - 327873   Contig Length - 17408324
+
 Kmer 53 : Contigs - 32636    Contig Length - 3912403
+
 Kmer 61 : Contigs - 26633    Contig Length - 2567327
+
 Kmer 81 : Contigs - 315      Contig Length - 4783776
 
 
