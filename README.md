@@ -1,4 +1,5 @@
-Name: Swetha YadavalliProgramming Language: UnixDate: 10/13/2023
+Name: Swetha Yadavalli
+Programming Language: Unix
 Required files: SRR21904868.fasta
 Required modules: 
 sra-toolkit, fastqc, velvet and oases modules are required
